@@ -2,9 +2,9 @@
 
 ## **`Software engeneering`**
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
-[![Instagram Badge](https://img.shields.io/badge/-@_kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno_Campos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
+[![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
+[![Gmail Badge](https://img.shields.io/badge/-brunogcc02813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
 
 I'm a software engeneering student that likes to challenge himself
 to produce the best possible outcome. I like to learn and ocasionally
