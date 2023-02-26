@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Campos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
 [![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
-[![Gmail Badge](https://img.shields.io/badge/-brunogcc02813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-brunogcc02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
 
 I'm a software engeneering student that likes to challenge himself
 to produce the best possible outcome. I like to learn and ocasionally
@@ -18,3 +18,8 @@ of the projects will be built from that prepective.
     <a href = "https://www.github.com/Rush99099">
         <img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rush99099&label=Profile%20views&color=ff69b4&style=for-the-badge"/></a>
 </p>
+
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
