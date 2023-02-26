@@ -12,5 +12,5 @@ of the projects will be built from that prepective. I have all my socials [here]
     <a href = "https://github.com/Rush99099?tab=followers">
         <img alt = "Followers" title = "Follow me on Github" src = "https://custom-icon-badges.demolab.com/github/followers/Rush99099?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=White"/></a>
     <a href = "https://github.com/Rush99099?tab=repositories&sort=stargazers">
-        <img alt = "Total Stars" title = "Total stars on Github" src = "https://custom-icon-badges.demolab.com/github/stars/Rush99099?color=236ad3&labelColor=155ba&style=for-the-badge&logo=briefcase&label=Follow&logoColor=White>
+        <img alt = "Total Stars" title = "Total stars on Github" src = "https://custom-icon-badges.demolab.com/github/stars/Rush99099?color=55960c\&style=for-the-badge&labelColor=488207&logo=star>
 </p>
