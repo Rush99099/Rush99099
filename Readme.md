@@ -19,7 +19,24 @@ of the projects will be built from that prepective.
         <img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rush99099&label=Profile%20views&color=ff69b4&style=for-the-badge"/></a>
 </p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<details>
+    <summary><b> Languages and Tools</b></summary>
+    <br/>
+    <p align = "left">
+        <a href="https://www.cprogramming.com/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+        <a href="https://git-scm.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+        <a href="https://www.python.org" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://www.haskell.org>" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> </a>
+        <a href="https://www.arduino.cc/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
+        <a href="https://www.markdownguide.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
+>
