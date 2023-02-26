@@ -1,6 +1,6 @@
-<h1 align="center"># 👾 Bruno Campos</h1>
+<h1 align="center">Bruno Campos</h1>
 
-**`Software engeneering`**
+<h3 align="center">**`Software engeneering`**</h3>
 
 I'm a software engeneering student that likes to challenge himself
 to produce the best possible outcome. I like to learn and ocasionally
