@@ -1,4 +1,4 @@
-# 👾 Bruno Campos
+<h1 align="center"># 👾 Bruno Campos</h1>
 
 **`Software engeneering`**
 
