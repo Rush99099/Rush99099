@@ -13,7 +13,7 @@ like to do some niche projects so I can be prepared to thinking outside
 the box. There'll be a lot of repositories with school work, so majority 
 of the projects will be built from that prepective.
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Code Time](http://img.shields.io/badgeCode%20Time-1%2C083%20hrs%2022%20mins-blue)
 
 
 
