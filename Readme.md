@@ -14,9 +14,6 @@ the box. There'll be a lot of repositories with school work, so majority
 of the projects will be built from that prepective.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&show_icons=true&theme=gotham" alt="rush99099"
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&theme=gotham" alt="rush99099" />
 
 <details>
@@ -39,3 +36,6 @@ of the projects will be built from that prepective.
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
         <a href="https://www.markdownguide.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&show_icons=true&theme=gotham" alt="rush99099"
