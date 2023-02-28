@@ -14,10 +14,10 @@ the box. There'll be a lot of repositories with school work, so majority
 of the projects will be built from that prepective.
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=material-palenight" alt="rush99099"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=transparent" alt="rush99099"
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=material-palenight" alt="rush99099" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=transparent" alt="rush99099" />
 
 
 <details>
