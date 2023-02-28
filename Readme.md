@@ -9,20 +9,29 @@
 
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+I'm a software engeneering student that likes to learn and aim to produce the best product.
 - 🌱 &nbsp;I’m currently learning C, and experimenting with python;
 - 💬 ask me about anything, i am happy to help;
-- ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming a little bit (Discord: [Rush#6006])
+- ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming (Discord: [Rush#6006])
 
-I'm a software engeneering student that likes to challenge himself
-to produce the best possible outcome. I like to learn and ocasionally
-like to do some niche projects so I can be prepared to thinking outside
-the box. There'll be a lot of repositories with school work, so majority 
-of the projects will be built from that prepective.
+>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
 
 >
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=react" alt="rush99099"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=transparent" alt="rush99099"
+
+>
+
+<details>
+    <summary><b>✨ About Me</b></summary>
+    <br/>
+        I'm a software engeneering student that likes to challenge himself to produce the best possible outcome. I like to learn and ocasionally like to do some niche projects so I can be prepared to thinking outside the box. There'll be a lot of repositories with school work, so majority of the repositories will be built from that prepective.
+        I'm getting more and more used to programming and liking the process of learning it.
+        My first contact with programming was in 2018, still in high school, where I programmed in Visual Basic for school work, I was stunned by what you actually could do with that and became fascinated.
+        Going to college I started by going to Software Engeneering at Universidade de Coimbra 
 
 >
 
@@ -47,9 +56,3 @@ of the projects will be built from that prepective.
         <a href="https://www.markdownguide.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </details>
-
->
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
-
