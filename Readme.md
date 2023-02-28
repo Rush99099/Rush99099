@@ -13,8 +13,7 @@ like to do some niche projects so I can be prepared to thinking outside
 the box. There'll be a lot of repositories with school work, so majority 
 of the projects will be built from that prepective.
 
-![Code Time](http://img.shields.io/badgeCode%20Time-1%2C083%20hrs%2022%20mins-blue)
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 <details>
