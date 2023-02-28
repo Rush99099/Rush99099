@@ -15,12 +15,8 @@ of the projects will be built from that prepective.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=react" alt="rush99099"
-    
+
 >
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
-
 
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
@@ -43,3 +39,9 @@ of the projects will be built from that prepective.
         <a href="https://www.markdownguide.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </details>
+
+>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
+
