@@ -15,7 +15,8 @@ of the projects will be built from that prepective.
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099&hide_border=true&show_icons=true&theme=react" alt="rush99099"
-
+>
+>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
 
