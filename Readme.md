@@ -13,6 +13,9 @@ like to do some niche projects so I can be prepared to thinking outside
 the box. There'll be a lot of repositories with school work, so majority 
 of the projects will be built from that prepective.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rush99099)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rush99099)](https://github.com/anuraghazra/github-readme-stats)
 
 
