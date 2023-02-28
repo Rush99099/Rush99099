@@ -1,6 +1,7 @@
 <h1 align="center">Bruno Campos</h1>
 
 ## **`Software engeneering`**
+
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Campos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
 [![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
 [![Gmail Badge](https://img.shields.io/badge/-brunogcc02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
@@ -11,6 +12,9 @@ to produce the best possible outcome. I like to learn and ocasionally
 like to do some niche projects so I can be prepared to thinking outside
 the box. There'll be a lot of repositories with school work, so majority 
 of the projects will be built from that prepective.
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <details>
