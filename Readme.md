@@ -1,16 +1,17 @@
 <h1 align="center">Bruno Campos</h1>
 
 ## **`Software engeneering`**
-- 🌱 &nbsp;I’m currently learning C, and experimenting with python;
-- 💬 ask me about anything, i am happy to help;
-- ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming a little bit (Discord: [Rush#6006])
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Campos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
 [![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
 [![Gmail Badge](https://img.shields.io/badge/-brunogcc02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=rush99099.rush99099&left_color=orange&right_color=orange)
 
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+- 🌱 &nbsp;I’m currently learning C, and experimenting with python;
+- 💬 ask me about anything, i am happy to help;
+- ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming a little bit (Discord: [Rush#6006])
 
 I'm a software engeneering student that likes to challenge himself
 to produce the best possible outcome. I like to learn and ocasionally
