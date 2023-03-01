@@ -37,6 +37,7 @@ I'm a software engeneering student that likes to learn and aim to produce the be
         Going to college, I started by choosing Software Engeneering at Universidade de Coimbra, my second option, as going to Software Engeneering at Universidade do Minho was my first. I was alone in a different city living alone and it was overall a bad experience for me, in the middle of those bad things, there was something good, and it was my involvement with *python*, I really loved the range of things it let me work with, but the most impactful thing that I learnt there was turtle.py, I really liked that chapter.
         After an year in Coimbra, I asked a transfer to Minho, that was successful, and after that and until today, I am learning and gaining some skills in other languages, such as *haskell* and *c* that I continue to develop.
         There'll be a lot of repositories with school work, so majority of the repositories will be built from that prepective.
+        I need to add "looking forward to learn languages" tab.
 </details>
 
 >
