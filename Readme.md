@@ -10,9 +10,10 @@
 
 ### Hi there <a href="https://www.github.com/rush99099"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I'm a software engeneering student that likes to learn and aim to produce the best product.
-- 🌱 &nbsp;I’m currently learning C, and experimenting with python;
+- 🔱 I’m currently working on improving my code;
+- 🌱 Currently learning C, and experimenting with python;
 - 💬 ask me about anything, i am happy to help;
-- ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming (Discord: Rush#6006)
+- ⚡ Fun fact: I love my "🐟Sardinha" and enjoy gaming (Discord: Rush#6006)
 
 ## 🧑‍💻GitHub Stats
 <p align="left">
