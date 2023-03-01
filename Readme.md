@@ -17,7 +17,7 @@ I'm a software engeneering student that likes to learn and aim to produce the be
 
 ## 🧑‍💻GitHub Stats
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_broder=true&theme=react" alt="rush99099" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_border=true&theme=react" alt="rush99099" />
 
 >
 
