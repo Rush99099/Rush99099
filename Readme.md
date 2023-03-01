@@ -14,7 +14,7 @@ I'm a software engeneering student that likes to learn and aim to produce the be
 - 💬 ask me about anything, i am happy to help;
 - ⚡ &nbsp;Fun fact: I :heart: animals and enjoy gaming (Discord: Rush#6006)
 
-# 🧑‍💻GitHub Stats
+## 🧑‍💻GitHub Stats
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=rush99099&show_icons=true&hide_border=true&theme=react" alt="rush99099" />
 
@@ -25,7 +25,7 @@ I'm a software engeneering student that likes to learn and aim to produce the be
 
 >
 
-# ✨About Me
+## ✨About Me
 
 <details>
     <summary><b>👽 Bio</b></summary>
