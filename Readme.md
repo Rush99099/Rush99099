@@ -3,7 +3,7 @@
 ## **`Software engeneering`**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Campos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rush99099/)](https://www.linkedin.com/in/rush99099/)
-[![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/kampoos68)
+[![Instagram Badge](https://img.shields.io/badge/-@kampoos68-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kampoos68/)](https://instagram.com/kampoos68)
 [![Gmail Badge](https://img.shields.io/badge/-brunogcc02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunogcc02@gmail.com)](mailto:brunogcc02@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=rush99099.rush99099&left_color=orange&right_color=orange)
 
